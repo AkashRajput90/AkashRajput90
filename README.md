@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AkashRajput90
 - 👀 I’m interested in Python, AI, wanna explore computer ,i just wanted to create my own jarvis;)
-- 🌱 I’m currently learning Tkinter 
-next is flask and then AI using python
+- 🌱 I’m currently learning django also know about tkinter, and then AI using python
 also side learning JS and C#
 - 💞️ I’m looking to collaborate on haven't Think yet
 - 📫 How to reach me  @manhasakash990@gmail.com
